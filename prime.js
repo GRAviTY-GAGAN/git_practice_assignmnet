@@ -6,7 +6,7 @@ count++;
 }
 }
 
-if(count == 2) {
+if(count == 0) {
 console.log('Prime');
 } else {
 console.log('Not Prime');
